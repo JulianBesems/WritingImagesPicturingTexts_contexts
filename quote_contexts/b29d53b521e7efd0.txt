@@ -1,0 +1,24 @@
+Created: 2025-11-15 23:25:11
+Origin: zotero
+Selected: Symbols are not proxy for their objects, but are vehicles for the conception of objects. — nice quote on relation of encoding and the encoded 9783035624052.pdf
+
+--- Context List ---
+01. "*By looking at objects through the levels of their abstractions, we realize the potency of information (in meaning and shapes, with which we can work), but at the same time we realize the sheer emptiness that is proper to abstraction, when we regard it on the symbolical level of indexes alone.* [[Applied Virtually Book Series] Ludger Hovestadt & Vera Buhlmann - EigenArchitecture (2013, Ambra Verlag) - libgen.li (1) (Conflict) (1).pdf](zotero://open-pdf/library/items/UDVBETNW?page=22&annotation=6ES6TMHH)"
+
+02. "*tHE contEnt of tHis Book All the texts in this book center upon the role of a coding and decoding practice that is capable of putting up such fantastic projection spaces.* [Hovestadt and Bühlmann - 2014 - Domesticating symbols metalithikum. II.pdf](zotero://open-pdf/library/items/UZAWLBRC?page=16&annotation=EJJH3Z7M)"
+
+03. "*Symbols are not proxy for their objects, but are vehicles for the conception of objects.* — **nice quote on relation of encoding and the encoded** [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=40&annotation=G5XQ2D5Y)"
+
+04. "*The notions of encapsulation and encoding that were so central to a mathematical design process refer to essentially the same concept, but each attends to a distinct aspect of it.* [AndrewWitt-Formulations.pdf](zotero://open-pdf/library/items/RFAYGAN3?page=19&annotation=4FHFFAIB)"
+
+05. "*One of the challenges of encoding information into lists is to think of a delicate balance of its recorded materiality and symbolic capacities which don’t exclude but rather encapsulate each other.* [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=28&annotation=4I78AXQ3)"
+
+06. "*An Informational Instrument celebrates these contradictions without having an explicit a priori base unit. It opens a different perspective. What if the emphasis is not on measuring reality but on encoding and decoding it in many ways, by crafting different keys to access the world in many ways? What if it is about articulating faces and mixing libraries? It is a different game then. You are not looking for specific properties to measure, but are trying to develop a communication channel through which you can articulate profiles of different encodings. This is the search for the most general and abstract ingredients in a given situation. There is no base unit of a book. Yet, in a Plentiful Play books are profiling libraries from many perspectives simultaneously. A book becomes a constitutive part of a character of an alphabet that articulates its library—a symbolic void element* — **Interesting to relate to groups, rings, and bodies** [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=308&annotation=4WBUS9PP)"
+
+07. "*This capacity starts to  gure in different modalities:  nitely and in nitary methods of abstraction. While we are rather familiar, meanwhile, with the  nite modalities of the general’s capacity for demonstrative de nition and delimitation, we only begin to learn about its powers in the modality of in nitary methods. The in nitary methods we know today follow the genetic methods of root extraction and factorization, and those of generic transformations.* [Hovestadt and Bühlmann - 2013 - Sheaves when things are whatever can be the case.pdf](zotero://open-pdf/library/items/3DTVYA4Y?page=8&annotation=LPS44TFB)"
+
+08. "*In this respect, content and expression could be seen as two different domains giving form to each other. The process of formalisation could be seen as a form of communication.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=184&annotation=26A4N5IC)"
+
+09. "*A practical discussion on how different objects are encoding/decoding will also be included.* [Guo and Li - 2017 - Evolutionary approach for spatial architecture lay.pdf](zotero://open-pdf/library/items/D4ND54V3?page=11&annotation=PXSGNVGK)"
+
+10. "*space of representation, finding or constructing another level of representation of the same phenomena, where the question can be posed and answered once the coexistence between two levels is established. Speaking in terms of Hjelmslev, we can say that we are interested in finding a new content and expression-form for the same content purport. By applying the self-organizing model, I attempt to show that this is indeed possible.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=238&annotation=W29GEG7S)"

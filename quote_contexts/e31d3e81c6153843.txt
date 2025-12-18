@@ -1,0 +1,26 @@
+Created: 2025-11-08 12:17:42
+Origin: zotero
+Selected: Lemke noted (2002: 303) ‘No [written] text is an image. No text or visual representation means in all and only the same ways that text can mean. It is this essential incommensurability that enables genuine new meanings to be made from the combinations of modalities’. — -this is exactly the right way of putting it compared to earlier sentence Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf
+
+--- Context List ---
+01. "*Lemke noted (2002: 303) ‘No [written] text is an image. No text or visual representation means in all and only the same ways that text can mean. It is this essential incommensurability that enables genuine new meanings to be made from the combinations of modalities’.* — **-this is exactly the right way of putting it compared to earlier sentence** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=272&annotation=KAHF5HK6)"
+
+02. "*reshapes the relationship between resources such as image and writ-ing, and has the potential to significantly reconfigure notions of spatiality and embodiment as well as genre conventions, all of which can lead to adapted and some new types of texts and interactions.* — **Key!!!** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=270&annotation=WA8NIH6S)"
+
+03. "*In this respect, content and expression could be seen as two different domains giving form to each other. The process of formalisation could be seen as a form of communication.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=184&annotation=26A4N5IC)"
+
+04. "*tHE contEnt of tHis Book All the texts in this book center upon the role of a coding and decoding practice that is capable of putting up such fantastic projection spaces.* [Hovestadt and Bühlmann - 2014 - Domesticating symbols metalithikum. II.pdf](zotero://open-pdf/library/items/UZAWLBRC?page=16&annotation=EJJH3Z7M)"
+
+05. "*There is a large body of multimodal research that explores the dynamics of the interaction between image and language.* — **Interesting but to me it seems to fall into the same pitfalls where meaning is seen as a singularly defined unifying mapping of the modalities. However this fails to acknowledge that the modalities need to remain in their domain to bear this meaning. This collapsing them and studying them by means of analysing meaning seems odd to me. However further and closer reading is needed.
+
+Primary argument is that our approach is an active one where it navigates domains to put something forward which inherently relies on a different approach where this research is employing an analytical method to study how understanding is derived from multimodal sources . (Analysis vs Algebra?)** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=275&annotation=7RJ5TVJQ)"
+
+06. "*Under the guise of reverting to a previous arrangement, it recovers its three functions-but in order to pervert them, there­ by disturbing all the traditional bonds oflanguage and the image.* — **This exactly expresses how text and image cannot in all situations be expressed in the same encoding. Because this subversion is only possible because image and text stand to each others proportion but not in one another's encoding.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=34&annotation=SDLNYAT5)"
+
+07. "*The context shapes the resources available for meaning making and how these are selected and designed.* — **Check article by xy? In coding** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=269&annotation=RVVZVLII)"
+
+08. "*The interac-tion between modes is itself a part of the production of meaning.* — **!!!** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=269&annotation=3Y7VZBZB)"
+
+09. "*From paint­ ing to image, from image to text, from text to voice, a sort of imaginary pointer indicates, shows, fixes, locates, impose s a syste m of references, tries to sta­ bilize a unique space* — **How might we go about this in a digital context where description and image collapse?** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=42&annotation=Z28V8UDG)"
+
+10. "*Again, this small play was taken place with-out imposing any predefined and external categories on books.* — **Question of categorisation of things through context is useful. Could evolve in the vectorisation of activated SOM. Another inversion by shelves of new and current things. Might be conceptually relatable to the renaissance study of astronomy (ludger piece in coding as literacy)** [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=370&annotation=ZT8EKUYM)"

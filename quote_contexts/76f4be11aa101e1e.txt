@@ -1,0 +1,24 @@
+Created: 2025-11-07 23:31:50
+Origin: zotero
+Selected: calligram 230223 herzien.pdf
+
+--- Context List ---
+01. "*calligram* [230223 herzien.pdf](zotero://open-pdf/library/items/HA3DJM9U?page=5&annotation=EJ6NKRTE)"
+
+02. "*Lemke noted (2002: 303) ‘No [written] text is an image. No text or visual representation means in all and only the same ways that text can mean. It is this essential incommensurability that enables genuine new meanings to be made from the combinations of modalities’.* — **-this is exactly the right way of putting it compared to earlier sentence** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=272&annotation=KAHF5HK6)"
+
+03. "*From the calligram that says things twice (when once would doubtless do); from the calligram that shuffles what it says over what it shows to hide them from each other* — **Very relevant for clip embedding and how text and image say the same thing without added content.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=36&annotation=4AEDDZBS)"
+
+04. "*Door tekst, handgeschreven tekst en tekening te beschouwen als een “Gesamtkunstwerk”* [230223 herzien.pdf](zotero://open-pdf/library/items/HA3DJM9U?page=8&annotation=4NXAEEUR)"
+
+05. "*Under the guise of reverting to a previous arrangement, it recovers its three functions-but in order to pervert them, there­ by disturbing all the traditional bonds oflanguage and the image.* — **This exactly expresses how text and image cannot in all situations be expressed in the same encoding. Because this subversion is only possible because image and text stand to each others proportion but not in one another's encoding.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=34&annotation=SDLNYAT5)"
+
+06. "*The process/system distinction can be represented more clearly from the standpoint of constants and variables. It becomes clear that the process determines the system, which in fact means that the existence of a system is a necessary condition for the existence of the process. Therefore, text cannot exist without a language laying behind it, but it is possible to have a language without a text constructed in that language. In that case, language is possible but textual process is virtual: it is possible but not actually realised. 687* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=170&annotation=7GBQHCMB)"
+
+07. "*written images* [230223 herzien.pdf](zotero://open-pdf/library/items/HA3DJM9U?page=7&annotation=ZZJU8ILH)"
+
+08. "*reshapes the relationship between resources such as image and writ-ing, and has the potential to significantly reconfigure notions of spatiality and embodiment as well as genre conventions, all of which can lead to adapted and some new types of texts and interactions.* — **Key!!!** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=270&annotation=WA8NIH6S)"
+
+09. "*this paradigm is instead interested in developing grammars and syntaxes that would be capable of affording the greatest possible scope of expression for the plays that are performed on the stages provided by computational environments for designing, modeling, and planning. Examples here would be Space Syntax, Shape Grammars, Christopher Alexander’s Pattern Language, but also Rhino’s Grasshopper, ESRI’s City Engine, Logo, Processing, and others.* [10.1515_9783035606393.pdf](zotero://open-pdf/library/items/3H53K9Y2?page=14&annotation=ZWU4ZG7Q)"
+
+10. "*In his praise of any great appropriate variety, Alberti’s painted historia (a term that resists precise translation)46 could be interpreted as an instrument that brings together technology, abundance, and storytelling. Technology, as it is a demonstration of a new perspectival painting. Abundance, as it celebrates the richly varied and properly arranged elements. And, lastly, storytelling since, according to Grafton while referring to Cicero’s historia,* — **relevant to draw from large nr of sources. This is what my text editor needs to do** [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=31&annotation=8X3KMJLJ)"

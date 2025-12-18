@@ -1,0 +1,24 @@
+Created: 2025-11-15 22:00:07
+Origin: zotero
+Selected: By looking at objects through the levels of their abstractions, we realize the potency of information (in meaning and shapes, with which we can work), but at the same time we realize the sheer emptiness that is proper to abstraction, when we regard it on the symbolical level of indexes alone. [Applied Virtually Book Series] Ludger Hovestadt & Vera Buhlmann - EigenArchitecture (2013, Ambra Verlag) - libgen.li (1) (Conflict) (1).pdf
+
+--- Context List ---
+01. "*By looking at objects through the levels of their abstractions, we realize the potency of information (in meaning and shapes, with which we can work), but at the same time we realize the sheer emptiness that is proper to abstraction, when we regard it on the symbolical level of indexes alone.* [[Applied Virtually Book Series] Ludger Hovestadt & Vera Buhlmann - EigenArchitecture (2013, Ambra Verlag) - libgen.li (1) (Conflict) (1).pdf](zotero://open-pdf/library/items/UDVBETNW?page=22&annotation=6ES6TMHH)"
+
+02. "*One of the challenges of encoding information into lists is to think of a delicate balance of its recorded materiality and symbolic capacities which don’t exclude but rather encapsulate each other.* [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=28&annotation=4I78AXQ3)"
+
+03. "*tHE contEnt of tHis Book All the texts in this book center upon the role of a coding and decoding practice that is capable of putting up such fantastic projection spaces.* [Hovestadt and Bühlmann - 2014 - Domesticating symbols metalithikum. II.pdf](zotero://open-pdf/library/items/UZAWLBRC?page=16&annotation=EJJH3Z7M)"
+
+04. "*Symbols are not proxy for their objects, but are vehicles for the conception of objects.* — **nice quote on relation of encoding and the encoded** [9783035624052.pdf](zotero://open-pdf/library/items/USF7AJIK?page=40&annotation=G5XQ2D5Y)"
+
+05. "*The notions of encapsulation and encoding that were so central to a mathematical design process refer to essentially the same concept, but each attends to a distinct aspect of it.* [AndrewWitt-Formulations.pdf](zotero://open-pdf/library/items/RFAYGAN3?page=19&annotation=4FHFFAIB)"
+
+06. "*In this respect, content and expression could be seen as two different domains giving form to each other. The process of formalisation could be seen as a form of communication.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=184&annotation=26A4N5IC)"
+
+07. "*A practical discussion on how different objects are encoding/decoding will also be included.* [Guo and Li - 2017 - Evolutionary approach for spatial architecture lay.pdf](zotero://open-pdf/library/items/D4ND54V3?page=11&annotation=PXSGNVGK)"
+
+08. "*The context shapes the resources available for meaning making and how these are selected and designed.* — **Check article by xy? In coding** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=269&annotation=RVVZVLII)"
+
+09. "*In this section, I propose to encode different modalities from the collected data and transform its rendering: images, text, sound, movies into numerical representations that machines can read.* [Saldana_FP_190902.pdf](zotero://open-pdf/library/items/CBPXTCVK?page=14&annotation=6XBEEAUU)"
+
+10. "*space of representation, finding or constructing another level of representation of the same phenomena, where the question can be posed and answered once the coexistence between two levels is established. Speaking in terms of Hjelmslev, we can say that we are interested in finding a new content and expression-form for the same content purport. By applying the self-organizing model, I attempt to show that this is indeed possible.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=238&annotation=W29GEG7S)"

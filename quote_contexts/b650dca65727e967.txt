@@ -1,0 +1,26 @@
+Created: 2025-11-08 12:13:49
+Origin: zotero
+Selected: Instead of creating a parametric master model, indexes of all objects are correlated to a framework of a possibility space—to a Pre-specific mode. [Applied Virtually Book Series] Ludger Hovestadt & Vera Buhlmann - EigenArchitecture (2013, Ambra Verlag) - libgen.li (1) (Conflict) (1).pdf
+
+--- Context List ---
+01. "*The second assumption central to multi-modal research is that all modes have, like language, been shaped through their cultural, historical and social uses to realize social functions as required by different communi-ties.* [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=268&annotation=ADV42UQ8)"
+
+02. "*The interac-tion between modes is itself a part of the production of meaning.* — **!!!** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=269&annotation=3Y7VZBZB)"
+
+03. "*Instead of creating a parametric master model, indexes of all objects are correlated to a framework of a possibility space—to a Pre-specific mode.* [[Applied Virtually Book Series] Ludger Hovestadt & Vera Buhlmann - EigenArchitecture (2013, Ambra Verlag) - libgen.li (1) (Conflict) (1).pdf](zotero://open-pdf/library/items/UDVBETNW?page=13&annotation=JYZ3MWJ4)"
+
+04. "*Thus the interaction between modes is significant for meaning making.* [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=268&annotation=3TX4L987)"
+
+05. "*The same structure models different subjects by training with different data* — **A multiplicity of the domain which is specified through an abundance of context. The domain that this passes through defines the nature of the required context.** [Guo and Li - 2017 - Evolutionary approach for spatial architecture lay.pdf](zotero://open-pdf/library/items/D4ND54V3?page=4&annotation=SJ73KCRS)"
+
+06. "*In this section, I propose to encode different modalities from the collected data and transform its rendering: images, text, sound, movies into numerical representations that machines can read.* [Saldana_FP_190902.pdf](zotero://open-pdf/library/items/CBPXTCVK?page=14&annotation=6XBEEAUU)"
+
+07. "*The meaning of any message is, however, distributed across all of these modes and not necessarily evenly.* — **Set based approach. This I have issue with. Either mode can rely on the other in order to bear meaning** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=272&annotation=8PZ2MLY3)"
+
+08. "*There is a large body of multimodal research that explores the dynamics of the interaction between image and language.* — **Interesting but to me it seems to fall into the same pitfalls where meaning is seen as a singularly defined unifying mapping of the modalities. However this fails to acknowledge that the modalities need to remain in their domain to bear this meaning. This collapsing them and studying them by means of analysing meaning seems odd to me. However further and closer reading is needed.
+
+Primary argument is that our approach is an active one where it navigates domains to put something forward which inherently relies on a different approach where this research is employing an analytical method to study how understanding is derived from multimodal sources . (Analysis vs Algebra?)** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=275&annotation=7RJ5TVJQ)"
+
+09. "*The modal resources that are available to the person are an integral part of that context – hence the importance of multimodality to understand-ing the process of meaning making.* — **I would argue that modalities also highly depend on the discourse, eg. Plan section might both be seen as drawings, but in negotiating the architecture they are complimentary modalities (find gr. theory analogy for this - maybe modular groups within a larger group?)** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=270&annotation=5F5G3AAW)"
+
+10. "*The context shapes the resources available for meaning making and how these are selected and designed.* — **Check article by xy? In coding** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=269&annotation=RVVZVLII)"

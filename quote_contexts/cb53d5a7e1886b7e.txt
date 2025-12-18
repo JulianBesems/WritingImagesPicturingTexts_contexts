@@ -1,0 +1,24 @@
+Created: 2025-11-08 14:08:53
+Origin: zotero
+Selected: The intention of this work is to apply the conceptual framework of natural communication in the domain of architecture. By means of communication bridges between different domains, the resolution of a problem unsolvable within architecture will be presented as the resolution of a matching problem in its conjugate symbolic domain. The solution can then be decoded back to architecture. — Relevant to the discussion on domains Marinčić - 2019 - Computational models in architecture towards comm.pdf
+
+--- Context List ---
+01. "*The intention of this work is to apply the conceptual framework of natural communication in the domain of architecture. By means of communication bridges between different domains, the resolution of a problem unsolvable within architecture will be presented as the resolution of a matching problem in its conjugate symbolic domain. The solution can then be decoded back to architecture.* — **Relevant to the discussion on domains** [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=146&annotation=BYSSV5P3)"
+
+02. "*In this respect, content and expression could be seen as two different domains giving form to each other. The process of formalisation could be seen as a form of communication.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=184&annotation=26A4N5IC)"
+
+03. "*The same structure models different subjects by training with different data* — **A multiplicity of the domain which is specified through an abundance of context. The domain that this passes through defines the nature of the required context.** [Guo and Li - 2017 - Evolutionary approach for spatial architecture lay.pdf](zotero://open-pdf/library/items/D4ND54V3?page=4&annotation=SJ73KCRS)"
+
+04. "*The Sphere and the Labyrinth has to be understood in these terms: as a communication between the sphere’s absolute position and the labyrinth’s totalresolution.* [Villa - 2024 - Upon entropy architectonics of the image in the a.pdf](zotero://open-pdf/library/items/7EH52CZI?page=90&annotation=QY46R87Z)"
+
+05. "*The point-by-point correspondence of the solid volume and its delineation, ichnography or scenography, makes the latter a characteristic or a language; conversely, language establishes a correspondence of the same type as the painting - one then understands the deformations and avatars of the former, if one observes that the projection can be made on a left surface, or 'humpbacked'.* — **Very relevant!!!!!** [02.a. en (gpt) _premier chapitre_ deuxième partie [Serres, Michael_Le système de Leibniz (2015)].pdf](zotero://open-pdf/library/items/2W5WUQWU?page=7&annotation=EDC3Y77T)"
+
+06. "*The Monadology, then, is ichnography: the methodological profile (as we have seen), the gnoseological profile (as we see it), the ontological profile (as we are about to see) of the Universal are superimposed on it.* — **2 Axes, so important!** [02.c. en (gpt) _troisiÃ¨me chapitre_ deuxiÃ¨me partie [Serres, Michael_Le systÃ¨me de Leibniz (2015)].pdf](zotero://open-pdf/library/items/CGEFGZ5G?page=48&annotation=2DY9U2AR)"
+
+07. "*dispositio or arrangement, which consisted of ichnography (plan), orthography (elevation), and scenography (perspective). 874 This arrangement was for the first time challenged in the 15th century.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=238&annotation=5C98QELB)"
+
+08. "*In the chapter “An experiment: Communication and natures of architectural representation,” by making an analogy with this example, it will be shown how geometric information of a floor plan can be encoded in an algebraic structure defined with the ring of integers and the field of real numbers.* [Marinčić - 2019 - Computational models in architecture towards comm.pdf](zotero://open-pdf/library/items/QXJ9N6IV?page=132&annotation=DRZNHNBI)"
+
+09. "*This spectrum is not just from what architects draw forms, but it is also in turn constituted by what is drawn; the ‘projection’ reveals itself as a project.* [Villa Riccardo Matteo - 2019 - Architecture as Currency.pdf](zotero://open-pdf/library/items/D8HVT82H?page=69&annotation=QFS2M3G4)"
+
+10. "*Conversely, each of these units, these multiplicities, these monadologies, constitutes a model - a scenography-, more or less faithful, more or less expressive, of the ichnographic construction of 1714.* [01c. en (gpt) _troisiÃ¨me chapitre_ premiÃ¨re partie [Serres, Michael_Le systÃ¨me de Leibniz (2015)].pdf](zotero://open-pdf/library/items/FURJTBRL?page=3&annotation=LZGNAM4S)"

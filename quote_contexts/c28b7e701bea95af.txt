@@ -1,0 +1,24 @@
+Created: 2025-11-25 18:01:07
+Origin: zotero
+Selected: From the calligram that says things twice (when once would doubtless do); from the calligram that shuffles what it says over what it shows to hide them from each other — Very relevant for clip embedding and how text and image say the same thing without added content. Foucault - 1983 - This is not a pipe.pdf
+
+--- Context List ---
+01. "*From the calligram that says things twice (when once would doubtless do); from the calligram that shuffles what it says over what it shows to hide them from each other* — **Very relevant for clip embedding and how text and image say the same thing without added content.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=36&annotation=4AEDDZBS)"
+
+02. "*And it is in vain that we attempt to show, by the use of images, metaphors, or similes, what we are saying; the space where they achieve their splendor is not that de­ ployed by our eyes but that defined by the sequential ele­ ments of syntax. And the proper name, in this context, is merely an artifice: it gives us afinger to point with, in other words, to pass surreptitiously from the space where one speaks to the space where one looks; in other words, to fold one over the other as if they were equivalents. 6* — **Very relevant to GPT and images and text** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=21&annotation=UPX922IN)"
+
+03. "*Lemke noted (2002: 303) ‘No [written] text is an image. No text or visual representation means in all and only the same ways that text can mean. It is this essential incommensurability that enables genuine new meanings to be made from the combinations of modalities’.* — **-this is exactly the right way of putting it compared to earlier sentence** [Jewitt - 2013 - Multimodal Methods for Researching Digital Technol.pdf](zotero://open-pdf/library/items/8HD6N5JS?page=272&annotation=KAHF5HK6)"
+
+04. "*Under the guise of reverting to a previous arrangement, it recovers its three functions-but in order to pervert them, there­ by disturbing all the traditional bonds oflanguage and the image.* — **This exactly expresses how text and image cannot in all situations be expressed in the same encoding. Because this subversion is only possible because image and text stand to each others proportion but not in one another's encoding.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=34&annotation=SDLNYAT5)"
+
+05. "*ey are words drawing words; at the surface of the image, they form t. he reflecti on of a sentence saying that this is not a pipe. The image of a text* [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=35&annotation=QBHNXDGX)"
+
+06. "*Either the text is ruled by the image (as in those paintings where a book , an inscrip­ tion, a letter, or the name of a person are represented); or else the image is ruled by the text (as in books where a draw ing complet es, as if it were merely tak­ ing a short cut, the mess age that words are charged to represent)* — **Important to understand the dynamic** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=44&annotation=7D7LXDYL)"
+
+07. "*he text must say nothing to this gazing subject who is a viewer, not a reader. As soon as he begins to read, in fact, shape dissipates.* — **Again CLIP:, here this also characterises how the image does not express more than the text and the existing context from which the imagery is inferred.** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=36&annotation=WKUPEMTK)"
+
+08. "*Markov simply cuts the famous epos by Alexander Pushkininto meaningless consonants and vowels,counts the characters,analyses the numbers,and gets values of probabilities,by which one can navigate the text in a stable and ordered wayprior to any specificity,prior to any reading or understanding.* [10.1515_9783035606393.pdf](zotero://open-pdf/library/items/3H53K9Y2?page=98&annotation=J3EEANFS)"
+
+09. "*From paint­ ing to image, from image to text, from text to voice, a sort of imaginary pointer indicates, shows, fixes, locates, impose s a syste m of references, tries to sta­ bilize a unique space* — **How might we go about this in a digital context where description and image collapse?** [Foucault - 1983 - This is not a pipe.pdf](zotero://open-pdf/library/items/PBBEEFM8?page=42&annotation=Z28V8UDG)"
+
+10. "*Therefore: The 1 is the key* [10.1515_9783035606393.pdf](zotero://open-pdf/library/items/3H53K9Y2?page=56&annotation=BM93QHVU)"
