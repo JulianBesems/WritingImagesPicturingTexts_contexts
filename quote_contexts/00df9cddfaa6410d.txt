@@ -1,0 +1,34 @@
+Created: 2025-12-25 17:56:29
+Origin: suggested
+Selected: Floor cavity ratio A number indicating floor cavity proportions calculated from length, width, and height.[Ernest., Burden *Illustrated Dictionary of Architecture*. 2017.]
+
+--- Context List ---
+01. "Floor cavity ratio A number indicating floor cavity proportions calculated from length, width, and height."[Ernest., Burden *Illustrated Dictionary of Architecture*. 2017.]
+
+02. "Floor joist See Joist Floor level A designation for the height above a prescribed or established datum; or the location of the floor within the building itself; such as basement or first floor."[Ernest., Burden *Illustrated Dictionary of Architecture*. 2017.]
+
+03. "Finished floor level The final level or position of the finished floor, including any tiles, as opposed to the level of the concrete or wood subfloor surface or floor joists."[Ernest., Burden *Illustrated Dictionary of Architecture*. 2017.]
+
+04. "FLOOR PAGE 3 relative floor International Space Station — Domino House — No Stop City, Continuous Monument — Floor Area Ratio (FAR) false floor — Raised floor systems "[INPUT: floor.pdf]
+
+05. "FLOOR PAGE 61 A man liberated from the floor, momentarily. ca. 1536 Jacob Koebel, a German surveyor, illustrates the proper  procedure for determining the "rood," a proto-measure of standardized  length. (Plate from "Geometrei. Von künstlichem Feldmessen und  absehen" by Charles H Judd, Educational Psychology, 1939, p. 275. ) "[INPUT: floor.pdf]
+
+06. "1:50) layout drawings such as floor plans or elevations. This restricts annotation of those drawings to no more than a few numbers. The author uses an alphanumeric code referring to floor, room and detail: e. g."[Campbell, James W. P., and Michael Tutton *Staircases: History, Repair and Conservation*. Routledge, 2014.]
+
+07. "FLOOR PAGE 65 PAGE 66 FLOOR  Continuous floor, in section, composed of any possible variation of materials, layers, structures statics The structural calculations used to design the load-carrying capacity of floors are part of a branch  of mathematics called "statics. ""[INPUT: floor.pdf]
+
+08. "3. Set a couple of good straight string lines across different points of the floor as reference lines to keep your bricks straight. 4. Use bricks that are all the same size for a better-looking floor."[Kotite, Erika *She sheds : a room of your own*. Cool Springs Press, 2017.]
+
+09. "Concrete slab 20cm 17. Thermal insulation, expanded polystyrene 2cm 8 9 10 4 11 12 13 14 15 16 5 17 6 6 074 / 075 5 4 2 3 1 Ground Floor (Left), First Floor (Facing Below Left) and Second Floor Plan (Facing Below Right): 1."[Liu, Helen *Residential Skin & Details*. DesignMedia Publishing Limited, 2013.]
+
+10. "Each level has its own external access. Scale 1:400 =· Southwest 1ST 8 '"T4 . . . L. . . . . . . . Northeast GF 8. Ain Baal, house al-Bakl* A vaulted ground floor tor services carries a two-room gallery floor reached by an external stair."[Ragette, Friedrich *Traditional Domestic Architecture Of The Arab Region*. Hardcover. Axel Menges, 2003.]
+
+11. "Bended lug 11. Wooden sticks(6/3cm) 234 / 235 1 2 Second Floor First Floor 3 Wall Details: 1."[Liu, Helen *Residential Skin & Details*. DesignMedia Publishing Limited, 2013.]
+
+12. "Common facilties are arranged around th ground floor yard. e Scale 1:400 G 9. ~e~hlehem, house Nasser [85] Variation of central-hall type of multi-floor dwelling ~ea~ cross ~~ults on all floors produce variable fl~or :~~. s and ceiling heights."[Ragette, Friedrich *Traditional Domestic Architecture Of The Arab Region*. Hardcover. Axel Menges, 2003.]
+
+13. "Irregular external openings 1t1on of modern penthouse and large sub-floor . openings. Scale 1:400 ~~/J~?~;UF Jordan/Palestine 183 10."[Ragette, Friedrich *Traditional Domestic Architecture Of The Arab Region*. Hardcover. Axel Menges, 2003.]
+
+14. "Description Size Location FOUNDATION 4 Concrete blocks 3" x 8" x 16" foundation FLOOR 2 2x8 P. T. 10' floor frame 2 2x8 P. T. 12' floor frame 2 2x6 P. T. 12' girder (opt. )"[Stowe, Doug *Building small cabinets*. Newtown, CT: Taunton Press, 2011.]
+
+15. "Floor coverings If floor coverings are to be used, a person must choose between carpeting, area rugs, or hard coverings, known as resilient floors. Carpeting helps unify the entire room."[Н.М., Філіппова, and Смуглякова М.К. *Focus on Design. Part Two. Interior Design*. 2017.]

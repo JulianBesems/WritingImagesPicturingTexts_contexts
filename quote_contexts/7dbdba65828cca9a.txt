@@ -1,0 +1,34 @@
+Created: 2025-12-26 00:16:32
+Origin: suggested
+Selected: In A Thousand Plateaus this whole problem is discussed under the rubric smooth and striated spaces. A smooth space is a nonmetric intensive space, ‘one of distances, not of measures’, whereas a striated space is an extensive space, with a closed, parcelled out or measured surface (Deleuze 1987: 479).[*Deleuze Studies Journal* Edinburgh University Press, 2007.]
+
+--- Context List ---
+01. "Ifwe bring to bear sorne complexity theory terms, we can say that a full statement of 'geophilosophy' would be that aIl bodies on the strata occupying a striated space arise through the congealing or cooling of an intensive process forming a smooth space and subtended by the singularities inhabiting the virtual plane of consistency ('phase space' or 'state space')."[Bonta, Mark, and John Protevi *Deleuze and Geophilosophy: A Guide and Glossary (Deleuze Connections)*. Edinburgh University Press, 2004.]
+
+02. "(SD 15; 176). Second, it is important to note that GT unfolds within and out of a metaphysical space, especially in the first chapter. Specifically it must be remembered that “performativity,” in its first appearance, is designated explicitly as a metaphysical concept (GT 33)."[(Editor), Roland Faber, Michael Halewood (Editor), Deena Lin (Editor), Jeffrey A. Bell (Contributor), Vikki Bell (Contributor), and Judith Butler *Butler on Whitehead: On the Occasion*. Lexington Books, 2012.]
+
+03. "To think means to be embedded in the present-time stratum that serves as a limit. [F 98, 119] - E. B. Y. Striated space 1. Space designed for a sedentary lifestyle, where movement concerns the relationship between points or nodes which are imported onto it from a higher plane or another dimension; the dimensional movement of territorialized milieus, in distinction from directional movement within lines of flight or smooth space."[Young, Eugene B., Gary Genosko, and Janell Watson *The Deleuze and Guattari Dictionary*. Bloomsbury Academic, 2013.]
+
+04. "Another parallel flight beneath takes you to offices on an intermediate level over the entrance. The immateriality of the inserted structures is induced by height and 4 7 7 6 6 2 5 1 first floor plan north-south cross section north-south cross section 1 6 7 4 2 2 5 4 5 3 west-east long section 4 5 1 2 3 4 5 6 7 A RCHAEOLOGICAL MUSEUM , F RASCATI , I TALY ARCHITECT M ASSIMILIANO F UKSAS entrance main gallery exhibition case service core vaulted gallery exhibition hall auditorium 3 64 | 2 ground floor plan (scale approx 1:500) 4 cippall@yahoo. com - 172 - 6 length, and by being counterpoised against the massive masonry wall, its thickness displayed in the deep reveals of small square windows set high above the ground."[*The Architectural Review - Sellection  2002-2005* 2011.]
+
+05. "In A Thousand Plateaus this whole problem is discussed under the rubric smooth and striated spaces. A smooth space is a nonmetric intensive space, ‘one of distances, not of measures’, whereas a striated space is an extensive space, with a closed, parcelled out or measured surface (Deleuze 1987: 479)."[*Deleuze Studies Journal* Edinburgh University Press, 2007.]
+
+06. "See Figure 2. STRIATED SPACE [espace strié]: space marked by striae (striations); metric or measured space. Just as smooth space is the product of intensification, striated space is the product of stratification, especiallyas effectuated by the State apparatus (385; 441)."[Bonta, Mark, and John Protevi *Deleuze and Geophilosophy: A Guide and Glossary (Deleuze Connections)*. Edinburgh University Press, 2004.]
+
+07. "They 66 Todd Jerome Satter elaborate: ‘In contrast to the sea, the city is the striated space par excellence; the sea is a smooth space fundamentally open to striation, and the city is the force of striation that reimparts smooth space, puts it back into operation everywhere, on earth and in the other elements, outside but also inside itself’ (Deleuze and Guattari 1987: 481)."[*Deleuze Studies Journal* Edinburgh University Press, 2007.]
+
+08. "Striated space is given a function, which is imparted on a subject, while smooth space allows subjects to distribute themselves within and throughout space to form a new assemblage (human-building-environment)."[*Deleuze Studies Journal* Edinburgh University Press, 2007.]
+
+09. "See also Holey Space, Smooth Space, Striated Space. ROYAL SCIENCE: DG base their notion of Royal science ('major science') on the positivist interpretation of c1assical mechanics."[Bonta, Mark, and John Protevi *Deleuze and Geophilosophy: A Guide and Glossary (Deleuze Connections)*. Edinburgh University Press, 2004.]
+
+10. "Notes 1. Greg Lynn, “Architectural Curvilinearity: The Folded, the Pliant and the Supple,” Architectural Design 63, nos. 3–4 (March–April 1993): 22–29. Kipnis Jeffrey, “Towards a New Architecture,” in Space Reader: Heterogeneous Space in Architecture, ed."[Gaskill, Nicholas, A. J. Nocek, and Alfred North Whitehead *The lure of Whitehead*. Univ Of Minnesota Press, 2014.]
+
+11. "But building is confronts the space where and roof. it meets walls Because these walls and roof are themselves symbols of the interior space, great emotional and aesthetic force to the actions of approach apprehension of its is given to a building, interaction with the Greeks used colonnades to humanize the approach to their buildings, although they were not concerned to manipulate internal space."[Raeburn, Michael, and Hugh Carson *Architecture of The Western World*. Crescent Books, 1984.]
+
+12. "See also Consistency; Nomads; Plane of consistency; Rhizome; Space; Striated space Society: and segmentarity, 208-31 passim. See also Politics; State apparatus Solomon: 122, 123, 534 n. 14."[Deleuze, Gilles, and Felix Guattari *A Thousand Plateaus: Capitalism and Schizophrenia*. University of Minnesota Press, 1988.]
+
+13. "Architecture has used A Thousand Plateaus to rethink notions of space and flow."[Adkins, Brent *Deleuze and Guattari’s A Thousand Plateaus: A Critical Introduction and Guide*. Edinburgh University Press, 2015.]
+
+14. "That it does is evident in the homogeneous space corresponding to the compars. Homogeneous space is in no way a smooth space; on the contrary, it is the form of striated space."[Deleuze, Gilles, and Felix Guattari *A Thousand Plateaus*. Bloomsbury Academic, 2004.]
+
+15. "Instead, it is a matter of reinserting the play of smooth space into the inevitable ‘continuum’ of smooth and striated space."[Massumi, Brian *A Shock to Thought: Expressions After Deleuze and Guattari (Philosophy & Cultural Studies)*. 2002.]
